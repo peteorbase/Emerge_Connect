@@ -1,0 +1,88 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
+    'filename' => 'C:/xampp/htdocs/emerge-connect/grav-admin-v1.7.46/grav-admin/user/data/flex/indexes/pages.json',
+    'modified' => 1728290481,
+    'size' => 1324,
+    'data' => [
+        'version' => '1.5',
+        'timestamp' => 1728290481,
+        'count' => 6,
+        'index' => [
+            '' => [
+                'key' => '',
+                'storage_key' => '',
+                'template' => NULL,
+                'storage_timestamp' => 1728290481,
+                'children' => [
+                    '01.about' => 1728289488,
+                    '02.student-work' => 1728289579,
+                    '03.virtual-tour' => 1728289623,
+                    '04.home' => 1728289623,
+                    '05.typography' => 1728289623
+                ],
+                'checksum' => '438488d93aa6d236d3f96cc7fc264b24'
+            ],
+            '01.about' => [
+                'key' => 'about',
+                'storage_key' => '01.about',
+                'template' => 'default',
+                'storage_timestamp' => 1728289488,
+                'markdown' => [
+                    '' => [
+                        'default' => 1728289474
+                    ]
+                ],
+                'checksum' => '65c104cd37a1566e98671dd04844b83f'
+            ],
+            '02.student-work' => [
+                'key' => 'student-work',
+                'storage_key' => '02.student-work',
+                'template' => 'default',
+                'storage_timestamp' => 1728289579,
+                'markdown' => [
+                    '' => [
+                        'default' => 1728289579
+                    ]
+                ],
+                'checksum' => 'eac6ac0a54442bc9877d37f3580e858d'
+            ],
+            '03.virtual-tour' => [
+                'key' => 'virtual-tour',
+                'storage_key' => '03.virtual-tour',
+                'template' => 'default',
+                'storage_timestamp' => 1728289623,
+                'markdown' => [
+                    '' => [
+                        'default' => 1728289607
+                    ]
+                ],
+                'checksum' => '61414791afa0c7208d2f3829839a6df6'
+            ],
+            '04.home' => [
+                'key' => 'home',
+                'storage_key' => '04.home',
+                'template' => 'default',
+                'storage_timestamp' => 1728289623,
+                'markdown' => [
+                    '' => [
+                        'default' => 1728289488
+                    ]
+                ],
+                'checksum' => '727278b301172ba73a9e7601d3743c48'
+            ],
+            '05.typography' => [
+                'key' => 'typography',
+                'storage_key' => '05.typography',
+                'template' => 'default',
+                'storage_timestamp' => 1728289623,
+                'markdown' => [
+                    '' => [
+                        'default' => 1728286077
+                    ]
+                ],
+                'checksum' => '2c1af01b5d6a6810905c5fceb10bd28c'
+            ]
+        ]
+    ]
+];

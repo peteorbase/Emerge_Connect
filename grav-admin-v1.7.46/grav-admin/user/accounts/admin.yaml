@@ -1,0 +1,11 @@
+state: enabled
+email: peo0078@arastudent.ac.nz
+fullname: Admin
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$R0phequXjySmSEgpFStT4efDSSQgFtmoQYK/N9EZVZ7EdZ0Mjghty

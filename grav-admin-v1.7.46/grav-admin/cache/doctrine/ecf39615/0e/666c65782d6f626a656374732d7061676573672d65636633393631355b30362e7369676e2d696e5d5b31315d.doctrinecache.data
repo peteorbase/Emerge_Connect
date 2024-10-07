@@ -1,0 +1,3 @@
+1728291057
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"sign-in";s:8:"elements";a:7:{s:4:"root";b:0;s:11:"storage_key";s:0:"";s:6:"header";a:1:{s:5:"title";s:7:"Sign in";}s:4:"name";s:7:"form.md";s:11:"frontmatter";s:17:"title: 'Sign in'
+";s:4:"slug";s:7:"sign-in";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:7:"sign-in";s:11:"storage_key";s:10:"06.sign-in";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1728290412;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1728290412;}}s:8:"checksum";s:32:"bcb242103aa7dd26cce73088f36e2a5f";}}
